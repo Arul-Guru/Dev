@@ -1,4 +1,4 @@
 1.Print all the Odd numbers of a 2d integer array Using Loop
-2.Get two integer inputs from shell/console and create two dimensional arrays for the following scenarios:
+2.Get two integer inputs from shell/console representing the number of rows and columns and create two dimensional arrays for the following scenarios:
    i) 2d-array with no prime numbers
    ii)2d-array with no duplicate values
